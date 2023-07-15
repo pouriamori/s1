@@ -24,7 +24,7 @@ const LinksMobile = () => {
     {
       id: 1,
       name: 'Dashboard',
-      link: '/',
+      link: '/.',
       icon: <BsHouseDoor />
     },
     {
